@@ -165,7 +165,7 @@ DataSaathi adapts to the data you connect — there is no one-size-fits-all assu
 |---|---|---|
 | Invoice & return tracking | Store-wise performance | Patient & appointment data |
 | Distributor-level analytics | Footfall & campaign ROI | Doctor-wise analysis |
-| Product movement reports | Target vs. achievement | Revenue by service type |
+| Product movement reports | Target vs  achievement | Revenue by service type |
 
 | 💰 Finance & Accounting | 🏗️ Manufacturing | 🎓 Education |
 |---|---|---|
@@ -184,9 +184,11 @@ DataSaathi adapts to the data you connect — there is no one-size-fits-all assu
   ─────────────────────                ────────────────────
   📊  Google Sheets                    📦  Zoho Books
   📁  Microsoft Excel (.xlsx)          💼  QuickBooks Online
-  🗄️  MySQL · PostgreSQL               🏢  SAP Business One
-  🧾  Tally Prime / ERP 9              🛍️  Shopify
+                                       🏢  SAP Business One
+                                       🛍️  Shopify
+                                       🗄️  MySQL · PostgreSQL
                                        📋  Busy / Marg ERP
+                                       🧾  Tally Prime / ERP 9
                                        🔗  Custom REST API
                                        + more on roadmap
 ```
@@ -204,10 +206,10 @@ DataSaathi adapts to the data you connect — there is no one-size-fits-all assu
   │   Try it     │  Small team  │  Scaling up  │  Full power  │
   │              │              │              │              │
   │  1 source    │  2 sources   │  5 sources   │  Unlimited   │
-  │  3 queries   │  250/month   │  2,000/month │  Unlimited   │
+  │  3 queries   │  250 queries │  2K queries  │  Unlimited   │
   │              │              │              │              │
   │  WhatsApp ✓  │  WhatsApp ✓  │  WhatsApp ✓  │  WhatsApp ✓  │
-  │              │              │  Automation ✓│  Automation ✓│
+  │              │  Automation ✓│  Automation ✓│  Automation ✓│
   └──────────────┴──────────────┴──────────────┴──────────────┘
 ```
 
