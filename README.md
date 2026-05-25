@@ -45,31 +45,30 @@ Hiring a data analyst costs ₹40,000–₹80,000/month. Learning BI tools takes
 </div>
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  💬  WhatsApp · DataSaathi                                      │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  You:      पिछले महीने सबसे ज़्यादा बिकने वाले                  │
-│            products कौन से थे?                                  │
-│                                                                  │
-│  Saathi:  📊 Last month's top 3 products:                       │
-│            1. Product A  —  ₹2,41,800                          │
-│            2. Product B  —  ₹1,93,500                          │
-│            3. Product C  —  ₹1,31,200                          │
-│                                                                  │
-│  You:      Which stores missed their target this week?           │
-│                                                                  │
-│  Saathi:  ⚠️  3 stores below target:                            │
-│            • MG Road       –18%                                  │
-│            • Koregaon Park  –9%                                  │
-│            • Kothrud         –4%                                 │
-│                                                                  │
-│  You:      How many return invoices in June?                     │
-│                                                                  │
-│  Saathi:  📋 247 return invoices in June                         │
-│            Total value: ₹8,34,600                               │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│ 💬 WhatsApp · DataSaathi                                     │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│ You:      पिछले महीने सबसे ज़्यादा बिकने वाले products कौन से थे?        │
+│                                                              │
+│ Saathi:   📊 Last month's top 3 products:                    │
+│           1. Product A   — ₹2,41,800                         │
+│           2. Product B   — ₹1,93,500                         │
+│           3. Product C   — ₹1,31,200                         │
+│                                                              │
+│ You:      Which stores missed their target this week?        │
+│                                                              │
+│ Saathi:   ⚠️ 3 stores below target:                          │
+│           • MG Road       –18%                               │
+│           • Koregaon Park –9%                                │
+│           • Kothrud       –4%                                │
+│                                                              │
+│ You:      How many return invoices in June?                  │
+│                                                              │
+│ Saathi:   📋 247 return invoices in June                     │
+│           Total value: ₹8,34,600                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 > **No app to download. No login. No training.**
