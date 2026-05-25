@@ -30,7 +30,7 @@
 
 ## 💡 The Problem We're Solving
 
-> Most small and mid-size businesses in India sit on mountains of data — in spreadsheets, accounting software, ERPs — but have **no way to query it without technical help.**
+> Most small and mid-size businesses in India sit on mountains of data - in spreadsheets, accounting software, ERPs - but have **no way to query it without technical help.**
 
 Hiring a data analyst costs ₹40,000–₹80,000/month. Learning BI tools takes weeks. And the business owner who *actually needs the answer* at 9 PM on a Sunday gets nothing.
 
