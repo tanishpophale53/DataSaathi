@@ -38,7 +38,7 @@ Hiring a data analyst costs ₹40,000–₹80,000/month. Learning BI tools takes
 
 ---
 
-<div align="center">
+<div>
 
 ## 🎬 See It In Action
 
