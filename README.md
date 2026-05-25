@@ -72,7 +72,7 @@ Hiring a data analyst costs ₹40,000–₹80,000/month. Learning BI tools takes
 ```
 
 > **No app to download. No login. No training.**
-> Your team sends a WhatsApp message — they get an answer.
+> Your team sends a WhatsApp message - they get an answer.
 
 ---
 
@@ -83,10 +83,10 @@ Hiring a data analyst costs ₹40,000–₹80,000/month. Learning BI tools takes
 ```
 ┌─────────────────────┐    ┌─────────────────────┐    ┌─────────────────────┐
 │                     │    │                     │    │                     │
-│  🗣️  Multilingual   │    │  🧩  Fuzzy Smart    │    │  📱  Zero Friction  │
+│  🗣️  Multilingual   │    │  🧩  Fuzzy Smart    │    │  📱 Zero Friction   │
 │                     │    │                     │    │                     │
 │  Ask in English,    │    │  Understands what   │    │  Dashboard +        │
-│  Hindi, Hinglish    │    │  you mean — not     │    │  WhatsApp. No app   │
+│  Hindi, Hinglish    │    │  you mean - not     │    │  WhatsApp. No app   │
 │  or mix them all.   │    │  just exact words.  │    │  download needed.   │
 │  Intent preserved.  │    │  Handles typos too. │    │  Works on any phone.│
 │                     │    │                     │    │                     │
@@ -113,23 +113,25 @@ DataSaathi isn't a simple chatbot that sends your question to an AI. It's a **mu
 <br/>
 
 ```
-  Your Question
-       │
-       ▼
   ┌────────────────────────────────┐
-  │   🌐  Language Detection       │  ── Identifies English / Hindi / Hinglish
+  │       📊  Your Question        │  ─ Ask a Question on Dashboard or WhatsApp
+  └────────────────────────────────┘
+                  │
+                  ▼
+  ┌────────────────────────────────┐
+  │   🌐  Language Detection       │  ─ Identifies English / Hindi / Hinglish
   └────────────────┬───────────────┘
                    │
                    ▼
   ┌────────────────────────────────┐
-  │   🔍  Intent Classification    │  ── What are you asking FOR?
-  │                                │     Sum / Count / Rank / Filter /
+  │                                │  ─ What are you asking FOR?
+  │   🔍  Intent Classification    │     Sum / Count / Rank / Filter /
   │                                │     Compare / Trend / Group
   └────────────────┬───────────────┘
                    │
                    ▼
   ┌────────────────────────────────┐
-  │   🎯  Semantic Column Matching │  ── Finds the RIGHT column in YOUR data
+  │   🎯  Semantic Column Matching │  ─ Finds the RIGHT column in YOUR data
   │                                │     even if you typed it differently
   │   "return bills" ──────────►  Return_Bills ✓
   │   "grahak"       ──────────►  Customer_Name ✓
@@ -138,13 +140,13 @@ DataSaathi isn't a simple chatbot that sends your question to an AI. It's a **mu
                    │
                    ▼
   ┌────────────────────────────────┐
-  │   ⚙️  Query Generation         │  ── Builds a safe, schema-verified query
+  │   ⚙️  Query Generation         │  ─ Builds a safe, schema-verified query
   │        +  Self-Verification    │     Blocked if not 100% schema-compliant
   └────────────────┬───────────────┘
                    │
                    ▼
   ┌────────────────────────────────┐
-  │   📊  Answer                   │  ── Delivered to Dashboard or WhatsApp
+  │          📊  Answer            │  ── Delivered to Dashboard or WhatsApp
   └────────────────────────────────┘
 ```
 
