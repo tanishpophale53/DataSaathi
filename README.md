@@ -448,7 +448,7 @@ But also the business owner asking an important question from their phone while 
 
 Interested in **DataSaathi**, want to explore a business use case, discuss a potential integration, or have a question about the project?
 
-**Feel free to connect.**
+<div align="center"> **Feel free to connect.** </div>
 
 <div align="center">
 
@@ -470,7 +470,7 @@ Interested in **DataSaathi**, want to explore a business use case, discuss a pot
 
 <br/><br/>
 
-**Helping Indian businesses ask better questions — in their own language.**
+**Helping Indian businesses ask better questions - in their own language.**
 
 <br/>
 
