@@ -35,13 +35,7 @@
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/112B9FkOior4IcvXUKJKBiMMc7dL9Teyi/preview">
-  <img
-    src="https://drive.google.com/thumbnail?id=112B9FkOior4IcvXUKJKBiMMc7dL9Teyi&sz=w1200"
-    alt="Watch DataSaathi Demo"
-    width="800"
-  />
-</a>
+<a href="https://drive.google.com/file/d/112B9FkOior4IcvXUKJKBiMMc7dL9Teyi/preview"> <img src="assets/datasaathi-product-preview.png" alt="DataSaathi product preview — click to watch the demo" width="900" /> </a>
 
 <br/><br/>
 
