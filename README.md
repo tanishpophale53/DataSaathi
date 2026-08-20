@@ -444,38 +444,41 @@ But also the business owner asking an important question from their phone while 
 
 ---
 
-📬 Get in Touch
+## 📬 Get in Touch
 
-Interested in DataSaathi, want to explore a business use case, discuss a potential integration, or have a question about the project?
+Interested in **DataSaathi**, want to explore a business use case, discuss a potential integration, or have a question about the project?
 
-Feel free to connect.
+**Feel free to connect.**
 
 <div align="center">
 
-
-
-
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-DataSaathi-6366F1?style=for-the-badge\&logo=youtube\&logoColor=white)](https://drive.google.com/file/d/112B9FkOior4IcvXUKJKBiMMc7dL9Teyi/preview)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanish_Pophale-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tanish-pophale/)
+[![Email](https://img.shields.io/badge/Email-tanishpophale%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tanishpophale@gmail.com)
 
 </div>
 
+---
+
 <div align="center">
 
 <br/>
 
-Your business already has the data.
-DataSaathi helps you have a conversation with it.
+## **Your business already has the data.**
+
+### **DataSaathi helps you have a conversation with it.**
 
 <br/>
 
-▶ Watch Demo
-  •  
-💼 LinkedIn
-  •  
-✉️ Email
+[▶ **Watch Demo**](https://drive.google.com/file/d/112B9FkOior4IcvXUKJKBiMMc7dL9Teyi/preview)
+  •  
+[💼 **LinkedIn**](https://www.linkedin.com/in/tanish-pophale/)
+  •  
+[✉️ **Email**](mailto:tanishpophale@gmail.com)
 
 <br/><br/>
 
-Helping Indian businesses ask better questions — in their own language.
+**Helping Indian businesses ask better questions — in their own language.**
 
 <br/>
 
