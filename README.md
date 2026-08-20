@@ -2,7 +2,7 @@
 
 <br/>
 
-```
+```text
 ██████╗  █████╗ ████████╗ █████╗ ███████╗ █████╗  █████╗ ████████╗██╗  ██╗██╗
 ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║
 ██║  ██║███████║   ██║   ███████║███████╗███████║███████║   ██║   ███████║██║
@@ -10,270 +10,468 @@
 ██████╔╝██║  ██║   ██║   ██║  ██║███████║██║  ██║██║  ██║   ██║   ██║  ██║██║
 ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝
 ```
-                            
-### **Your Business Data. Your Language. Instant Answers.**
 
-*No SQL. No analysts. No dashboards to learn — just ask.*
+### **Your Business Data. Your Language. Wherever You Are.**
 
-<br/>
-
-[![Status](https://img.shields.io/badge/Status-Live-22c55e?style=for-the-badge&labelColor=0f172a)](https://datasaathi.com)
-[![Languages](https://img.shields.io/badge/Languages-English_·_Hindi_·_Hinglish-f59e0b?style=for-the-badge&labelColor=0f172a)](https://datasaathi.com)
-[![WhatsApp](https://img.shields.io/badge/Works_on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&labelColor=0f172a&logoColor=25D366)](https://datasaathi.com)
-[![Domains](https://img.shields.io/badge/Domains-17+_Business_Verticals-6366f1?style=for-the-badge&labelColor=0f172a)](https://datasaathi.com)
+**Ask questions about your business in English, Hindi, or Hinglish - and get clear answers directly on WhatsApp or the DataSaathi dashboard.**
 
 <br/>
 
----
+[![Status](https://img.shields.io/badge/Status-Active_Rollout-22c55e?style=for-the-badge\&labelColor=0f172a)](https://datasaathi.com)
+[![Languages](https://img.shields.io/badge/Languages-English_·_Hindi_·_Hinglish-f59e0b?style=for-the-badge\&labelColor=0f172a)](https://datasaathi.com)
+[![WhatsApp](https://img.shields.io/badge/Works_on-WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&labelColor=0f172a\&logoColor=25D366)](https://datasaathi.com)
+
+<br/>
+
+**No SQL to write. No complicated dashboards to learn. Just ask.**
+
+<br/>
 
 </div>
 
-## 💡 The Problem We're Solving
-
-> Most small and mid-size businesses in India sit on mountains of data - in spreadsheets, accounting software, ERPs - but have **no way to query it without technical help.**
-
-Hiring a data analyst costs ₹40,000–₹80,000/month. Learning BI tools takes weeks. And the business owner who *actually needs the answer* at 9 PM on a Sunday gets nothing.
-
-**DataSaathi changes that.**
-
 ---
 
-<div>
+## 🎬 See DataSaathi in Action
 
-## 🎬 See It In Action
+<div align="center">
+
+<a href="https://drive.google.com/file/d/112B9FkOior4IcvXUKJKBiMMc7dL9Teyi/preview">
+  <img
+    src="https://drive.google.com/thumbnail?id=112B9FkOior4IcvXUKJKBiMMc7dL9Teyi&sz=w1200"
+    alt="Watch DataSaathi Demo"
+    width="800"
+  />
+</a>
+
+<br/><br/>
+
+### [▶ Watch the DataSaathi Demo](https://drive.google.com/file/d/112B9FkOior4IcvXUKJKBiMMc7dL9Teyi/preview)
+
+*See how a simple business question turns into an answer from real business data.*
 
 </div>
 
+---
+
+## ✈️ Your Business Doesn't Stop When You Leave Your Laptop Behind
+
+Imagine this.
+
+You run a growing distribution business.
+
+Your customer records, invoices, sales numbers, outstanding payments, and operational data are stored in your CRM or business database.
+
+You're travelling for an important business meeting.
+
+Your laptop isn't with you.
+
+Then someone asks:
+
+> **“Which customers currently have the highest outstanding payments?”**
+
+Normally, you might have to call your accountant, contact someone from your office, open a laptop later, or wait for somebody to prepare the information.
+
+With **DataSaathi**, you simply open WhatsApp.
+
+```text
+        ✈️  Business Owner Travelling
+                     │
+                     ▼
+              📱 Opens WhatsApp
+                     │
+                     ▼
+      "Top 5 customers with outstanding
+            payments this month?"
+                     │
+                     ▼
+              🧠 DataSaathi
+          Understands the question
+                     │
+                     ▼
+       🔍 Finds the relevant business data
+                     │
+                     ▼
+            📊 Clear Answer
+           directly on WhatsApp
 ```
+
+No laptop.
+
+No SQL.
+
+No searching through spreadsheets.
+
+No waiting for someone to prepare a report.
+
+**Your business data becomes accessible through a conversation.**
+
+---
+
+## 💡 The Problem DataSaathi Solves
+
+Businesses generate enormous amounts of useful data every day.
+
+The problem is that **having data and being able to use it are two different things.**
+
+Important information may be sitting inside:
+
+* spreadsheets,
+* databases,
+* CRMs,
+* accounting systems,
+* ERPs,
+* sales systems,
+* or operational tools.
+
+But answering even a simple business question can still require someone to:
+
+1. open the right system,
+2. locate the correct data,
+3. understand the fields,
+4. apply filters,
+5. prepare a report,
+6. and explain the result.
+
+For a business owner, the real question is much simpler:
+
+> **“Why can't I just ask my data?”**
+
+### DataSaathi makes that possible.
+
+---
+
+## 💬 Ask Naturally. Get Business Answers.
+
+You don't need to know database column names.
+
+You don't need to write perfect English.
+
+You don't need to understand how the data is structured.
+
+Just ask naturally.
+
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │ 💬 WhatsApp · DataSaathi                                     │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│ You:      पिछले महीने सबसे ज़्यादा बिकने वाले products कौन से थे?        │
+│ You:      पिछले महीने सबसे ज़्यादा बिकने वाले products कौन से थे?         │
 │                                                              │
 │ Saathi:   📊 Last month's top 3 products:                    │
-│           1. Product A   — ₹2,41,800                         │
-│           2. Product B   — ₹1,93,500                         │
-│           3. Product C   — ₹1,31,200                         │
+│           1. Product A  — ₹2,41,800                          │
+│           2. Product B  — ₹1,93,500                          │
+│           3. Product C  — ₹1,31,200                          │
 │                                                              │
 │ You:      Which stores missed their target this week?        │
 │                                                              │
-│ Saathi:   ⚠️ 3 stores below target:                          │
-│           • MG Road       –18%                               │
-│           • Koregaon Park –9%                                │
-│           • Kothrud       –4%                                │
+│ Saathi:   ⚠️ 3 stores are below target:                      │
+│           • MG Road       — 18% below target                 │
+│           • Koregaon Park — 9% below target                  │
+│           • Kothrud       — 4% below target                  │
 │                                                              │
-│ You:      How many return invoices in June?                  │
+│ You:      June mein kitne return invoices aaye?              │
 │                                                              │
-│ Saathi:   📋 247 return invoices in June                     │
+│ Saathi:   📋 247 return invoices                             │
 │           Total value: ₹8,34,600                             │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-> **No app to download. No login. No training.**
-> Your team sends a WhatsApp message - they get an answer.
+> **Business intelligence shouldn't require technical language.**
 
 ---
 
 ## ✨ What Makes DataSaathi Different
 
-<br/>
+| 🗣️ **Speak Naturally**                                      | 🧩 **Understands Meaning**                                                        | 📱 **Works Where You Work**                                                     |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Ask in English, Hindi, Hinglish, or naturally mix languages. | Understands business terminology, aliases, spelling variations, and common typos. | Ask through WhatsApp or use the web dashboard. No separate mobile app required. |
 
-```
-┌─────────────────────┐    ┌─────────────────────┐    ┌─────────────────────┐
-│                     │    │                     │    │                     │
-│  🗣️  Multilingual   │    │  🧩  Fuzzy Smart    │    │  📱 Zero Friction   │
-│                     │    │                     │    │                     │
-│  Ask in English,    │    │  Understands what   │    │  Dashboard +        │
-│  Hindi, Hinglish    │    │  you mean - not     │    │  WhatsApp. No app   │
-│  or mix them all.   │    │  just exact words.  │    │  download needed.   │
-│  Intent preserved.  │    │  Handles typos too. │    │  Works on any phone.│
-│                     │    │                     │    │                     │
-└─────────────────────┘    └─────────────────────┘    └─────────────────────┘
-
-┌─────────────────────┐    ┌─────────────────────┐    ┌─────────────────────┐
-│                     │    │                     │    │                     │
-│  🔒  Safe by Design │    │  🏢  Any Industry   │    │  📈  Gets Smarter   │
-│                     │    │                     │    │                     │
-│  Read-only access.  │    │  FMCG · Retail ·    │    │  Every question     │
-│  No writes. SQL     │    │  Healthcare ·       │    │  trains the engine. │
-│  injection blocked. │    │  Finance · Pharma   │    │  Accuracy improves  │
-│  JWT secured.       │    │  + 12 more domains. │    │  over time.         │
-│                     │    │                     │    │                     │
-└─────────────────────┘    └─────────────────────┘    └─────────────────────┘
-```
+| 🔒 **Safe by Design**                                                                             | 🏢 **Built for Business Data**                                                | 📊 **Context-Aware Answers**                                                         |
+| ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Read-oriented access, query validation, tenant isolation, authentication, and webhook protection. | Works across different business domains and adapts to the schema you connect. | Questions are interpreted using the context and structure of your own business data. |
 
 ---
 
-## 🧠 The Intelligence Behind It
+## 🧠 More Than Just a Chatbot
 
-DataSaathi isn't a simple chatbot that sends your question to an AI. It's a **multi-layer semantic engine** purpose-built for business data.
+DataSaathi doesn't simply forward your message to an AI model.
 
-<br/>
+Behind every question is a multi-stage intelligence pipeline designed specifically for **business-data understanding**.
 
-```
-  ┌────────────────────────────────┐
-  │       📊  Your Question        │  ─ Ask a Question on Dashboard or WhatsApp
-  └────────────────────────────────┘
-                  │
-                  ▼
-  ┌────────────────────────────────┐
-  │   🌐  Language Detection       │  ─ Identifies English / Hindi / Hinglish
-  └────────────────┬───────────────┘
-                   │
-                   ▼
-  ┌────────────────────────────────┐
-  │                                │  ─ What are you asking FOR?
-  │   🔍  Intent Classification    │     Sum / Count / Rank / Filter /
-  │                                │     Compare / Trend / Group
-  └────────────────┬───────────────┘
-                   │
-                   ▼
-  ┌────────────────────────────────┐
-  │   🎯  Semantic Column Matching │  ─ Finds the RIGHT column in YOUR data
-  │                                │     even if you typed it differently
-  │   "return bills" ──────────►  Return_Bills ✓
-  │   "grahak"       ──────────►  Customer_Name ✓
-  │   "totl sales"   ──────────►  Total_Sales ✓ (typo handled)
-  └────────────────┬───────────────┘
-                   │
-                   ▼
-  ┌────────────────────────────────┐
-  │   ⚙️  Query Generation         │  ─ Builds a safe, schema-verified query
-  │        +  Self-Verification    │     Blocked if not 100% schema-compliant
-  └────────────────┬───────────────┘
-                   │
-                   ▼
-  ┌────────────────────────────────┐
-  │          📊  Answer            │  ── Delivered to Dashboard or WhatsApp
-  └────────────────────────────────┘
+```mermaid
+flowchart TD
+
+    A["💬 Ask a Question<br/>WhatsApp or Dashboard"]
+
+    B["🌐 Understand the Language<br/>English · Hindi · Hinglish"]
+
+    C["🎯 Understand the Intent<br/>Count · Sum · Compare · Rank · Trend · Filter"]
+
+    D["🧩 Match Business Meaning<br/>Question ↔ Relevant Data Fields"]
+
+    E["⚙️ Generate the Query<br/>Using the Connected Schema"]
+
+    F["🛡️ Validate<br/>Schema + Safety + Confidence Checks"]
+
+    G["📊 Deliver the Answer<br/>WhatsApp or Dashboard"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
 ```
 
-<br/>
+### For example...
 
-> **Every answer is validated before it reaches you.**
-> Low-confidence results never go to the user — they go to a human review queue first.
+Your database might contain:
+
+```text
+Customer_Name
+Return_Bills
+Total_Sales
+Outstanding_Amount
+```
+
+But your users may ask:
+
+```text
+"grahak"
+"return bills"
+"totl sales"
+"pending amount"
+```
+
+DataSaathi's semantic layer helps connect the **way people speak** with the **way business data is stored**.
 
 ---
 
-## 🌍 Built for Every Business
+## 📊 What Can You Ask?
 
-DataSaathi adapts to the data you connect — there is no one-size-fits-all assumption.
+DataSaathi is designed for everyday business questions—not only predefined dashboards.
 
-| 🏭 FMCG & Distribution | 🛒 Retail & Chains | 🏥 Healthcare |
-|---|---|---|
-| Invoice & return tracking | Store-wise performance | Patient & appointment data |
-| Distributor-level analytics | Footfall & campaign ROI | Doctor-wise analysis |
-| Product movement reports | Target vs  achievement | Revenue by service type |
+| Business Area      | Example Question                                         |
+| ------------------ | -------------------------------------------------------- |
+| 💰 **Sales**       | “Which products generated the highest sales this month?” |
+| 📉 **Performance** | “Which stores are below target?”                         |
+| 💳 **Collections** | “Who are our top customers by outstanding amount?”       |
+| 📦 **Products**    | “Which products are moving slower than last month?”      |
+| 🧾 **Invoices**    | “How many return invoices were generated in June?”       |
+| 📈 **Trends**      | “Compare this month's sales with last month.”            |
+| 👥 **Customers**   | “Who are our top 10 customers by revenue?”               |
+| 🏢 **Branches**    | “Which branch performed best this quarter?”              |
 
-| 💰 Finance & Accounting | 🏗️ Manufacturing | 🎓 Education |
-|---|---|---|
-| Outstanding & collections | Batch production output | Enrolment & attendance |
-| Client-wise P&L summaries | Defect rate by line | Fee collection tracking |
-| Cash flow visibility | Efficiency benchmarking | Course-wise performance |
+The available questions depend on the data connected to DataSaathi.
 
 ---
 
-## 🔌 Data Sources We Connect
+## 🌍 Designed for Different Businesses
+
+DataSaathi adapts to the **schema and terminology of the business**, rather than assuming every organization stores information in exactly the same way.
+
+| 🏭 FMCG & Distribution    | 🛒 Retail & Chains     | 🏥 Healthcare        |
+| ------------------------- | ---------------------- | -------------------- |
+| Invoice & return tracking | Store-wise performance | Appointment analysis |
+| Distributor analytics     | Target performance     | Doctor-wise analysis |
+| Product movement          | Campaign insights      | Revenue by service   |
+
+| 💰 Finance & Accounting   | 🏗️ Manufacturing     | 🎓 Education            |
+| ------------------------- | --------------------- | ----------------------- |
+| Outstanding & collections | Production output     | Enrollment & attendance  |
+| Client-wise summaries     | Defect analysis       | Fee collection          |
+| Cash-flow visibility      | Efficiency comparison | Course-wise performance |
+
+---
+
+## 📱 Why WhatsApp Matters
+
+Business owners don't always work from a desk.
+
+They may be:
+
+* travelling,
+* visiting a client,
+* attending an exhibition,
+* meeting a distributor,
+* moving between branches,
+* working from a warehouse,
+* or simply away from their laptop.
+
+Yet business questions still come up.
+
+DataSaathi turns WhatsApp into a conversational window into business data.
+
+```text
+Traditional Flow
+
+Question
+   ↓
+Call someone
+   ↓
+Explain requirement
+   ↓
+Open system
+   ↓
+Prepare report
+   ↓
+Send screenshot / Excel
+   ↓
+Interpret result
+
+
+DataSaathi Flow
+
+Question
+   ↓
+WhatsApp
+   ↓
+Answer
+```
+
+The goal isn't to replace every analytics dashboard.
+
+The goal is to make **everyday business answers dramatically easier to reach**.
+
+---
+
+## 🔌 Connect Your Business Data
+
+### ✅ Available
+
+| Data Source                   | Support      |
+| ----------------------------- | ------------ |
+| 📊 Google Sheets              | ✅ Available |
+| 📁 Microsoft Excel (`.xlsx`)  | ✅ Available |
+| 🐬 MySQL                      | ✅ Available |
+| 🐘 PostgreSQL                 | ✅ Available |
+
+
+### 🔜 On the Roadmap
+
+| Integration              | Status     |
+| ------------------------ | ---------- |
+| WebEngage                | 🔜 Planned |
+| MoEngage                 | 🔜 Planned |
+| CleverTap                | 🔜 Planned |
+| Zoho Books               | 🔜 Planned |
+| QuickBooks Online        | 🔜 Planned |
+| SAP Business One         | 🔜 Planned |
+| Shopify                  | 🔜 Planned |
+| BUSY / Marg ERP          | 🔜 Planned |
+| TallyPrime / Tally ERP 9 | 🔜 Planned |
+| Custom REST APIs         | 🔜 Planned |
+
+> The integration roadmap may evolve as DataSaathi grows.
+
+---
+
+## 🛡️ Your Business Data Deserves Protection
+
+DataSaathi is designed with safeguards around how business data is accessed and queried.
+
+```text
+              🔐 Encrypted Credentials
+                       │
+                       ▼
+              🚫 Read-Oriented Access
+                       │
+                       ▼
+              🛡️ Query Validation
+                       │
+                       ▼
+              👥 Tenant Isolation
+                       │
+                       ▼
+              ✅ Verified Webhooks
+                       │
+                       ▼
+                 📊 Your Answer
+```
+
+Key application-level controls include:
+
+* 🔐 **Encrypted connector credentials**
+* 🚫 **Read-oriented access model**
+* 🛡️ **Schema-aware query validation**
+* ✅ **WhatsApp webhook signature verification**
+* ⏱️ **API rate limiting**
+* 👥 **Tenant-level application isolation**
+* 🔑 **JWT-based authenticated access**
+
+---
+
+## 🛠️ What's Behind DataSaathi?
+
+For non-technical users, DataSaathi is simply:
+
+> **Ask → Understand → Analyse → Answer**
+
+For the technically curious:
+
+<details>
+<summary><strong>⚙️ View the Technology Stack</strong></summary>
 
 <br/>
 
-```
-  ✅  Available Now                    🔜  Coming Soon
-  ─────────────────────                ────────────────────
-  📊  Google Sheets                    📦  Zoho Books
-  📁  Microsoft Excel (.xlsx)          💼  QuickBooks Online
-  🗄️  MySQL · PostgreSQL               🏢  SAP Business One
-                                       🛍️  Shopify
-                                       📋  Busy / Marg ERP
-                                       🧾  Tally Prime / ERP 9
-                                       🔗  Custom REST API
-                                       + more on roadmap
-```
-
----
-
-## 💼 Plans for Every Stage
+| Layer                      | Technologies                                                                  |
+| -------------------------- | ----------------------------------------------------------------------------- |
+| 🧠 **AI & Intelligence**   | Claude API (Anthropic) · Semantic NL→SQL · Vector Embeddings · Fuzzy Matching |
+| ⚙️ **Backend**             | Java 21 · Spring Boot 3.5                                                     |
+| 🗄️ **Data**                | PostgreSQL · Redis                                                            |
+| 🔐 **Security**            | JWT-based application security                                                |
+| 💻 **Frontend**            | React 18 · TypeScript · Tailwind CSS                                          |
+| 📊 **Visualization**       | Recharts                                                                      |
+| ✨ **UI Motion**           | Framer Motion                                                                 |
+| 💬 **Messaging**           | WhatsApp Business Platform (Meta)                                             |
+| 📄 **Data Processing**     | Google Sheets API · Apache POI                                                |
+| 🔄 **Database Migrations** | Flyway                                                                        |
+| ⏱️ **Scheduling**          | Quartz Scheduler                                                              |
+| 🏢 **Architecture**        | Multi-tenant SaaS                                                             |
 
 <br/>
 
-```
-  ┌──────────────┬──────────────┬──────────────┬──────────────┐
-  │     FREE     │   STARTER    │    GROWTH    │  ENTERPRISE  │
-  │              │              │              │              │
-  │   Try it     │  Small team  │  Scaling up  │  Full power  │
-  │              │              │              │              │
-  │  1 source    │  2 sources   │  5 sources   │  Unlimited   │
-  │  3 queries   │  250 queries │  2K queries  │  Unlimited   │
-  │              │              │              │              │
-  │  WhatsApp ✓  │  WhatsApp ✓  │  WhatsApp ✓  │  WhatsApp ✓  │
-  │              │  Automation ✓│  Automation ✓│  Automation ✓│
-  └──────────────┴──────────────┴──────────────┴──────────────┘
-```
+</details>
 
 ---
 
-## 🛡️ Enterprise-Grade Security
+## 🚀 Product Status
 
-DataSaathi was designed with security as a first principle — not an afterthought.
+**DataSaathi is currently in active rollout.**
 
-- 🔐 **Encrypted credentials** — all connector secrets are stored encrypted at rest
-- 🚫 **Read-only by design** — DataSaathi can never write, modify, or delete your data
-- 🛑 **SQL injection blocked** — every generated query is validated before execution
-- ✅ **Webhook signature verification** — all WhatsApp messages are cryptographically authenticated
-- ⏱️ **Rate limiting** — prevents abuse across all API surfaces
-- 👥 **Multi-tenant isolation** — your data is fully isolated from every other business
+The mission is simple:
+
+### Make business data easier to access for the people who actually need it.
+
+Not only analysts.
+
+Not only developers.
+
+Not only people sitting in front of dashboards.
+
+But also the business owner asking an important question from their phone while travelling hundreds of kilometres away from the office.
 
 ---
-
-## 🛠️ Built With
-
-<br/>
 
 <div align="center">
 
-| Layer | Technologies |
-|---|---|
-| **AI Engine** | Claude API (Anthropic) · Custom Semantic NL→SQL · Vector Embeddings · Fuzzy Matching |
-| **Backend** | Java 21 · Spring Boot 3.5 · PostgreSQL · Redis · JWT Security |
-| **Frontend** | React 18 · TypeScript · TailwindCSS · Framer Motion · Recharts |
-| **Integrations** | WhatsApp Business API (Meta) · Google Sheets API · Apache POI |
-| **Infrastructure** | Multi-tenant SaaS · Flyway Migrations · Quartz Scheduler |
+<br/>
 
-</div>
+## **Your business already has the data.**
 
----
-
-## 📊 What Owners Say
-
-> *"Earlier I used to call my accountant for every small number. Now I just ask on WhatsApp."*
-> — Retail chain owner, Pune
-
-> *"It even understands when I type in Hindi. My manager uses it without any training."*
-> — FMCG distributor, Mumbai
-
-> *"The first time it answered correctly in 3 seconds, I couldn't believe it was my own data."*
-> — Healthcare clinic owner, Nashik
-
----
-
-<div align="center">
+### **DataSaathi helps you have a conversation with it.**
 
 <br/>
 
----
-
-### DataSaathi is currently in active rollout.
-
-**Helping Indian businesses ask better questions — in their own language.**
+[🌐 **Visit DataSaathi**](https://datasaathi.com)
+  •  
+[▶ **Watch Demo**](https://drive.google.com/file/d/112B9FkOior4IcvXUKJKBiMMc7dL9Teyi/preview)
 
 <br/>
 
-*Built with ❤️ for Bharat's business owners*
+**Helping Indian businesses ask better questions - in their own language.**
 
 <br/>
-
----
 
 </div>
