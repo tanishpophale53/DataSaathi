@@ -450,14 +450,6 @@ Interested in **DataSaathi**, want to explore a business use case, discuss a pot
 
 **Feel free to connect.**
 
-<div align="center">
-
-[![Watch Demo](https://img.shields.io/badge/Watch_Demo-DataSaathi-6366F1?style=for-the-badge\&logo=youtube\&logoColor=white)](https://drive.google.com/file/d/112B9FkOior4IcvXUKJKBiMMc7dL9Teyi/preview)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanish_Pophale-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tanish-pophale/)
-[![Email](https://img.shields.io/badge/Email-tanishpophale%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tanishpophale@gmail.com)
-
-</div>
-
 ---
 
 <div align="center">
@@ -470,11 +462,13 @@ Interested in **DataSaathi**, want to explore a business use case, discuss a pot
 
 <br/>
 
-[▶ **Watch Demo**](https://drive.google.com/file/d/112B9FkOior4IcvXUKJKBiMMc7dL9Teyi/preview)
-  •  
-[💼 **LinkedIn**](https://www.linkedin.com/in/tanish-pophale/)
-  •  
-[✉️ **Email**](mailto:tanishpophale@gmail.com)
+<div align="center">
+
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-DataSaathi-6366F1?style=for-the-badge\&logo=youtube\&logoColor=white)](https://drive.google.com/file/d/112B9FkOior4IcvXUKJKBiMMc7dL9Teyi/preview)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanish_Pophale-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tanish-pophale/)
+[![Email](https://img.shields.io/badge/Email-tanishpophale%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tanishpophale@gmail.com)
+
+</div>
 
 <br/><br/>
 
