@@ -184,9 +184,8 @@ DataSaathi adapts to the data you connect — there is no one-size-fits-all assu
   ─────────────────────                ────────────────────
   📊  Google Sheets                    📦  Zoho Books
   📁  Microsoft Excel (.xlsx)          💼  QuickBooks Online
-                                       🏢  SAP Business One
+  🗄️  MySQL · PostgreSQL               🏢  SAP Business One
                                        🛍️  Shopify
-                                       🗄️  MySQL · PostgreSQL
                                        📋  Busy / Marg ERP
                                        🧾  Tally Prime / ERP 9
                                        🔗  Custom REST API
