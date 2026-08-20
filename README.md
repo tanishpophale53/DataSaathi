@@ -450,8 +450,6 @@ Interested in **DataSaathi**, want to explore a business use case, discuss a pot
 
 **Feel free to connect.**
 
----
-
 <div align="center">
 
 <br/>
