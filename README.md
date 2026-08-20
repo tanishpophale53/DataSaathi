@@ -444,23 +444,38 @@ But also the business owner asking an important question from their phone while 
 
 ---
 
+📬 Get in Touch
+
+Interested in DataSaathi, want to explore a business use case, discuss a potential integration, or have a question about the project?
+
+Feel free to connect.
+
+<div align="center">
+
+
+
+
+
+</div>
+
 <div align="center">
 
 <br/>
 
-## **Your business already has the data.**
-
-### **DataSaathi helps you have a conversation with it.**
-
-<br/>
-
-[🌐 **Visit DataSaathi**](https://datasaathi.com)
-  •  
-[▶ **Watch Demo**](https://drive.google.com/file/d/112B9FkOior4IcvXUKJKBiMMc7dL9Teyi/preview)
+Your business already has the data.
+DataSaathi helps you have a conversation with it.
 
 <br/>
 
-**Helping Indian businesses ask better questions - in their own language.**
+▶ Watch Demo
+  •  
+💼 LinkedIn
+  •  
+✉️ Email
+
+<br/><br/>
+
+Helping Indian businesses ask better questions — in their own language.
 
 <br/>
 
